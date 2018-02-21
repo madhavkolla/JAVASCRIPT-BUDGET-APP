@@ -1,10 +1,6 @@
 # JAVASCRIPT-BUDGET-APP
 # Ticky-Clock
  
-# Project Title
-# TODO LIST
-
-
 # Project Link
 
 ### Prerequisites
