@@ -1,11 +1,10 @@
 # JAVASCRIPT-BUDGET-APP
-# Ticky-Clock
- 
-# Project Link
 
-### Prerequisites
+![budgetapp](https://user-images.githubusercontent.com/19499440/36661639-738e8d16-1aa1-11e8-8708-84aa1e68b5ca.png)
 
-Basic knowledge of HTML, CSS, javascritp and bootstrap.
+### Skills Needed
+
+Basic knowledge of HTML, CSS and Javascritp.
 
 ### Installing
 
@@ -61,8 +60,6 @@ Description:
 While this video talks about Sublime as a “has-been,” the people who make Sublime have recently updated the editor making it a viable option today. 
 
 ```
-
-## 
 
 
 ## License
